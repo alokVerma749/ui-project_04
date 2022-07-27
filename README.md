@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/prahladinala/ineuron-live-class-project-1">
+  <a href="https://github.com/alokVerma749/uiproject_04">
     <img src="https://learncodeonline.in/mascot.png" alt="Logo" width="80">
   </a>
 
@@ -42,7 +42,7 @@
 
 ## About The Project
 
-![Project 04: uiproject-04](https://github.com/alokVerma749/ui-project_04/blob/master/2.png)
+![Project 04: uiproject-04](https://github.com/alokVerma749/ui-project_04/blob/master/4.png)
 
 Here's a project learnt and build the project based on HTML5 and CSS3 only
 
@@ -155,5 +155,5 @@ Project Link: [link](https://github.com/alokVerma749/ui-project_04)
 
 <!-- Project screenshot -->
 
-[product-screenshot]: https://github.com/alokVerma749/ui-project_04/blob/master/2.png
+[product-screenshot]: https://github.com/alokVerma749/ui-project_04/blob/master/4.png
 [project-url]: https://alokverma-uiproject-04.netlify.app/
